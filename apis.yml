@@ -1,0 +1,32 @@
+aid: yahoo-finance
+name: Yahoo Finance
+description: "Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange"
+url: https://www.yahoofinanceapi.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: Yahoo Finance
+    description: "Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange"
+    humanURL: https://www.yahoofinanceapi.com/
+    baseURL: https://www.yahoofinanceapi.com/
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://www.yahoofinanceapi.com/
+common:
+  - type: Website
+    url: https://www.yahoofinanceapi.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
