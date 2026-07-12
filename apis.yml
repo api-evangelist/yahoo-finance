@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.yahoofinanceapi.com/
 common:
+  - type: DomainSecurity
+    url: security/yahoo-finance-domain-security.yml
   - type: Website
     url: https://www.yahoofinanceapi.com/
   - type: PublicAPIsListing
