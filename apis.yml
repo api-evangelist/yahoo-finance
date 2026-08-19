@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/yahoo-fina
 name: Yahoo Finance
 description: "Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange"
 url: https://www.yahoofinanceapi.com/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
