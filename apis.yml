@@ -39,7 +39,6 @@ apis:
   - name: Yahoo Finance
     description: "Real time low latency Yahoo Finance API for stock market, crypto currencies, and currency exchange"
     humanURL: https://www.yahoofinanceapi.com/
-    baseURL: https://www.yahoofinanceapi.com/
     tags:
       - Finance
     properties:
